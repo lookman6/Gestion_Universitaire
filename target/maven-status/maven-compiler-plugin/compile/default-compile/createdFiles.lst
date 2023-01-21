@@ -1,0 +1,14 @@
+com\universite\Controller\EleveController.class
+com\universite\Model\Eleves.class
+com\universite\Model\Filieres.class
+com\universite\Service\FiliereService.class
+com\universite\Repository\EInterfaceRepository.class
+com\universite\Model\Eleves_.class
+com\universite\Service\FInterfaceService.class
+com\universite\Service\EleveService.class
+com\universite\Repository\FiliereRepository.class
+com\universite\Controller\FiliereController.class
+com\universite\Model\Filieres_.class
+com\universite\Repository\EleveRepository.class
+com\universite\Repository\FInterfaceRepository.class
+com\universite\Service\EInterfaceService.class
